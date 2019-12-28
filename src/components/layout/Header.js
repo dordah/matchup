@@ -17,29 +17,29 @@ const headerStyle = {
     background: '#333',
     color: '#fff',
     textAlign: 'center',
-    padding: '30px',
+    padding: '10px',
 }
 
 const linkStyle = {
     color: '#fff',
     textDecoration: 'none',
-    margin: '5px'
+    margin: '0px'
 }
 
 const crisStyle = {
-    height: '100px',
+    height: '80px',
     marginLeft: '10%',
     float: 'left'
 }
 
 const leoStyle = {
-    height: '100px',
+    height: '80px',
     marginRight: '10%',
     float: 'right'
 }
 
 const matchUpStyle = {
-    margin: '8px',
+    margin: '2px',
     padding: '2px'
 }
 

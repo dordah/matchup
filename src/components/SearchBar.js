@@ -25,7 +25,7 @@ const SearchBar = (props) => {
         borderRadius: '20px',
         fontSize: '20px',
         lineHeight: '40px',
-        width: '45%'
+        width: '40%'
     }
 
     return (

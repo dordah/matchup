@@ -14,10 +14,10 @@ export class Player extends Component {
         return (
             <div className={this.getStyle()} onClick={this.props.markSelected.bind(this, id)}>
                 <img alt='player' src={pic}
-                    style={{ height: '200px', width: '200px' }} />
+                    style={{ height: '100px', width: '100px' }} />
                 <div style={{ color: 'white' }}>
-                    <h2 className='pa2' style={{ fontFamily: 'Roboto' }}>{name}</h2>
-                    <p style={{ fontFamily: 'Roboto' }}>{position}</p>
+                    <h2 className='pa2' style={{fontSize : '14px', fontFamily: 'Roboto' }}>{name}</h2>
+                    <p style={{fontSize : '10px', fontFamily: 'Roboto' }}>{position}</p>
                 </div>
             </div>
         )

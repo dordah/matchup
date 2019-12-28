@@ -451,7 +451,7 @@ export const playersList = [
     },
     {
         id: 41,
-        name: 'Bernardo Silva',
+        name: 'Silva',
         position: 'RM',
         abilities: {
             'RM': 87,
@@ -459,7 +459,7 @@ export const playersList = [
             'CM': 82,
             'ST': 78
         },
-        pic: './images/player/bernardo-silva.png',
+        pic: './images/player/silva.png',
         selected: false
     },
     {
