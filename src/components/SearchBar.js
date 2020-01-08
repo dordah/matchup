@@ -32,7 +32,7 @@ const SearchBar = (props) => {
         <div className="search-box" style={style}>
             <input style={searchTxt} className="search-txt" type="text" name="" placeholder="Search Player" />
             <a style={searchBtn} className="search-btn" href="#">
-                <i class="fas fa-search"></i>
+                <i className="fas fa-search"></i>
             </a>
         </div>
     )

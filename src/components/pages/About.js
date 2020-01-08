@@ -27,7 +27,6 @@ export default function About() {
                     Advance to the Home page, there you will find the players list.
                     <br /> Click on each player that inted to participate in the match. The border indicates the player selected. Can be toggle off for non-participate by clicking the player again.
                     <br /> Hit the submit button on the lower bar, and we I'll do the trick for you.
-                    <br />
                 </p>
             </div>
             <div style={{ margin: '40px' }}>
@@ -35,8 +34,8 @@ export default function About() {
                 <p style={pStyle}>
                     The App built using React.JS Library.
                     <br /> The page transition implemented through React Router DOM. Enable to reach 'About' and 'Home' render with detecting a direct path.
-                    <br /> Using Tachyons component library for player's card design and simplified css calls.
-                    <br /> The player's images croped using Photoshop in the frame of the player's form .
+                    <br /> Using Tachyons component library for player's card design and simplified css modification.
+                    <br /> The player's images croped using Photoshop in the frame of the player's form to unable matching backgroung.
                 </p>
             </div>
         </React.Fragment>
